@@ -12,6 +12,8 @@ namespace easyApp
         {
             int[] myArray = { 2, 3, 4, 5, 6 };
             // hi there
+            int mynewstuff;
+            // hi again
         }
 
     }
