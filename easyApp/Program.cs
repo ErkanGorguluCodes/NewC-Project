@@ -10,7 +10,8 @@ namespace easyApp
     {
         static void Main(string[] args)
         {
-            int[] myArray = Convert.ToInt32(Console.ReadLine());
+            int[] myArray = { 2, 3, 4, 5, 6 };
+            // hi there
         }
 
     }
