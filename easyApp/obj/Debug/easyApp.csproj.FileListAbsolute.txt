@@ -1,0 +1,7 @@
+C:\Users\erkan\source\repos\easyApp\easyApp\bin\Debug\easyApp.exe.config
+C:\Users\erkan\source\repos\easyApp\easyApp\bin\Debug\easyApp.exe
+C:\Users\erkan\source\repos\easyApp\easyApp\bin\Debug\easyApp.pdb
+C:\Users\erkan\source\repos\easyApp\easyApp\obj\Debug\easyApp.csprojAssemblyReference.cache
+C:\Users\erkan\source\repos\easyApp\easyApp\obj\Debug\easyApp.csproj.CoreCompileInputs.cache
+C:\Users\erkan\source\repos\easyApp\easyApp\obj\Debug\easyApp.exe
+C:\Users\erkan\source\repos\easyApp\easyApp\obj\Debug\easyApp.pdb
